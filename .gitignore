@@ -1,6 +1,7 @@
 # local folder
 .local/*
 .vscode/*
+mmdetection3d/*
 
 *.pth
 *.csv
